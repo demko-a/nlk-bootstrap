@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&subset=cyrillic");
+
+* {
+  font-family: Roboto, sans-serif;
+}
+
+table td {
+  color: #007BFF;
+}
+
+.table_data_caption {
+  color: #000000;
+}
+
+.footer {
+  background-color: #F5F5F5;
+  color: #6C757D;
+}
+
+.card {
+  margin-bottom: 32px;
+}
